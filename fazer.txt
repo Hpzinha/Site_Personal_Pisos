@@ -19,13 +19,10 @@ Colocar uma legenda em baixo das imagens
 
 PARTE 3:(Guilherme)
 PAGINA DE ORÇAMENTO:
-arrumar o js para cpf colocar pontos e traços automaticamente sem a pessoa ter de digitar
-arrumar formulario (colocar ou retirar informaçoes necessárias)
+Ajustes feitos.
 
 PAGINA DE CONTATO:
-mudar borda do formulario
-arrumar informacoes de contato e colocar em negrito (parte esqueda, ao lado do formulario e em baixo do "Estamos prontos para ouvir voce")
-colocar icones zap; hora; localizaçao antes das informaçoes
+Ajustes feitos.
 
 
 
