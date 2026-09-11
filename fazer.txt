@@ -2,8 +2,6 @@
 
 PARTE 1:(Julia)
 
-ADD Readme
-
 PAGINA DE SOBRE:
 mudar textos
 mudar video e ajustar tamanho
@@ -12,9 +10,7 @@ Add Audio
 
 PARTE 2: (Jhenifer, Marcos e Ana Beatriz)
 PAGINAS laminados/vinilicos/carpetes/papeis de parede/persianas/rodapes:
-Alterar Todos os Textos de modo que fique hamonico e faça sentido com o restante do site 
 Colocar as imagens se mexendo quando passa o mouse em cima(igual na pagina de serviços)
-Colocar uma legenda em baixo das imagens
 
 
 PARTE 3:(Guilherme)
@@ -23,7 +19,6 @@ Ajustes feitos.
 
 PAGINA DE CONTATO:
 Ajustes feitos.
-
 
 
 --------------ENTREGA 2:--------------

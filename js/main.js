@@ -56,8 +56,6 @@ function marcarPaginaAtual() {
 
 marcarPaginaAtual();
 
-
-// Máscaras de entrada: os padrões HTML5 continuam responsáveis pela validação.
 function aplicarMascaraTelefone(campo) {
   campo.addEventListener('input', () => {
     const numeros = campo.value.replace(/\D/g, '').slice(0, 11);
