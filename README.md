@@ -14,7 +14,7 @@
 
 O website está hospedado no GitHub Pages e pode ser acessado pelo link:
 
-[https://hpzinha.github.io/Site_Personal_Pisos/]
+[https://julialafaelly.github.io/Site_Personal_Pisos/]
 
 O projeto foi configurado para hospedagem pública utilizando o branch `main` do repositório.
 
