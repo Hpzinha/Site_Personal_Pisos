@@ -95,7 +95,7 @@ O contato com o responsável pela Personal Pisos e Carpetes foi realizado por me
 - **Modalidade do contato:** Presencial
 - **Data:** 22/08/2026
 - **Responsável entrevistado:** Jonatan Nunes (Dono da Empresa)
-- **Participantes do grupo:** Julia Lafaelly e Guilheme Campos
+- **Participantes do grupo:** Guilheme Campos, Jhenifer Rosa e Julia Lafaelly 
 
 Durante o contato, foram coletadas informações sobre a história da empresa, os principais produtos e serviços oferecidos, o público atendido, os diferenciais da organização e as necessidades que o website deveria apresentar.
 
